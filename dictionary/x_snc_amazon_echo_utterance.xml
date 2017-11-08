@@ -12,5 +12,14 @@
         <element attributes="edge_encryption_enabled=true" label="Slot type" max_length="40" name="slot_type_1" reference="x_snc_amazon_echo_slot_types" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Slot type" max_length="40" name="slot_type_2" reference="x_snc_amazon_echo_slot_types" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Slot type" max_length="40" name="slot_type_3" reference="x_snc_amazon_echo_slot_types" type="reference"/>
+        <index name="index">
+            <element name="slot_type_1"/>
+        </index>
+        <index name="index2">
+            <element name="slot_type_2"/>
+        </index>
+        <index name="index3">
+            <element name="slot_type_3"/>
+        </index>
     </element>
 </database>

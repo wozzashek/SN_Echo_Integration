@@ -13,15 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-02 21:45:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>291702c9db9d320015f2de01ce961983</sys_id>
+        <sys_id>9c5134fd4f1203003697b5e18110c756</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_amazon_echo_utterance</sys_name>
         <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
-        <sys_update_name>ua_table_licensing_config_291702c9db9d320015f2de01ce961983</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_9c5134fd4f1203003697b5e18110c756</sys_update_name>
         <sys_updated_by>jc</sys_updated_by>
         <sys_updated_on>2017-03-02 21:45:18</sys_updated_on>
     </ua_table_licensing_config>

@@ -16,9 +16,12 @@
             </choice>
         </element>
         <index name="index">
-            <element name="intent"/>
+            <element name="session"/>
         </index>
         <index name="index2">
+            <element name="intent"/>
+        </index>
+        <index name="index3">
             <element name="in_response_to"/>
         </index>
     </element>

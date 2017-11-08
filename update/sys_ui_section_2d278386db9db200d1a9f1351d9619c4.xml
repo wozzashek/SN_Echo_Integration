@@ -107,7 +107,6 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>jc</sys_created_by>
             <sys_created_on>2017-03-06 04:59:08</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2d278386db9db200d1a9f1351d9619c4</sys_id>
@@ -116,7 +115,6 @@
             <sys_overrides/>
             <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
             <sys_update_name>sys_ui_section_2d278386db9db200d1a9f1351d9619c4</sys_update_name>
             <sys_updated_by>jc</sys_updated_by>
